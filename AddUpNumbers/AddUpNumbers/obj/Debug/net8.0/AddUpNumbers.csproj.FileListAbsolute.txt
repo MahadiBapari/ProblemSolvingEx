@@ -1,0 +1,14 @@
+D:\C#\AddUpNumbers\AddUpNumbers\bin\Debug\net8.0\AddUpNumbers.exe
+D:\C#\AddUpNumbers\AddUpNumbers\bin\Debug\net8.0\AddUpNumbers.deps.json
+D:\C#\AddUpNumbers\AddUpNumbers\bin\Debug\net8.0\AddUpNumbers.runtimeconfig.json
+D:\C#\AddUpNumbers\AddUpNumbers\bin\Debug\net8.0\AddUpNumbers.dll
+D:\C#\AddUpNumbers\AddUpNumbers\bin\Debug\net8.0\AddUpNumbers.pdb
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.AssemblyInfoInputs.cache
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.AssemblyInfo.cs
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.csproj.CoreCompileInputs.cache
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.dll
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\refint\AddUpNumbers.dll
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.pdb
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\AddUpNumbers.genruntimeconfig.cache
+D:\C#\AddUpNumbers\AddUpNumbers\obj\Debug\net8.0\ref\AddUpNumbers.dll

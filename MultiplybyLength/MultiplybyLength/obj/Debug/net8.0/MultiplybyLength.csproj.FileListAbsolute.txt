@@ -1,0 +1,14 @@
+D:\C#\MultiplybyLength\MultiplybyLength\bin\Debug\net8.0\MultiplybyLength.exe
+D:\C#\MultiplybyLength\MultiplybyLength\bin\Debug\net8.0\MultiplybyLength.deps.json
+D:\C#\MultiplybyLength\MultiplybyLength\bin\Debug\net8.0\MultiplybyLength.runtimeconfig.json
+D:\C#\MultiplybyLength\MultiplybyLength\bin\Debug\net8.0\MultiplybyLength.dll
+D:\C#\MultiplybyLength\MultiplybyLength\bin\Debug\net8.0\MultiplybyLength.pdb
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.AssemblyInfoInputs.cache
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.AssemblyInfo.cs
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.csproj.CoreCompileInputs.cache
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.dll
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\refint\MultiplybyLength.dll
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.pdb
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\MultiplybyLength.genruntimeconfig.cache
+D:\C#\MultiplybyLength\MultiplybyLength\obj\Debug\net8.0\ref\MultiplybyLength.dll

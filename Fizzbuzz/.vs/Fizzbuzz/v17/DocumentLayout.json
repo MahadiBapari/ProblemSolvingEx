@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Fizzbuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB3B7A2-53D8-4DD3-A398-319F26A2646A}|Fizzbuzz\\Fizzbuzz.csproj|d:\\c#\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB3B7A2-53D8-4DD3-A398-319F26A2646A}|Fizzbuzz\\Fizzbuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Fizzbuzz\\Fizzbuzz\\Program.cs",
+              "RelativeDocumentMoniker": "Fizzbuzz\\Program.cs",
+              "ToolTip": "D:\\C#\\Fizzbuzz\\Fizzbuzz\\Program.cs",
+              "RelativeToolTip": "Fizzbuzz\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:38:39.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
